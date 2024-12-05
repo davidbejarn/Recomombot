@@ -20,7 +20,7 @@ Mostrar información sobre los géneros, autores, títulos y temas preferidos de
 - #### Generación de recomendaciones personalizadas:
 Ofrecer recomendaciones de películas y libros basadas en preguntas especificas del chatboot.
 
-- #### Interfaz conversacional fluida:
+- #### Interfaz conversacional:
 Proporcionar una experiencia de chat amigable y natural, utilizando un lenguaje claro y permitiendo al usuario solicitar recomendaciones o explorar nuevas opciones de forma sencilla.
 
 - #### Acceso a bases de datos actualizadas:
@@ -31,12 +31,8 @@ Conectar el chatbot a bases de datos de películas y libros , para asegurar que 
 - #### Facilitar filtros de búsqueda avanzados:
 Permitir al usuario filtrar recomendaciones por criterios específicos como año de publicación, duración, número de páginas y autores fovoritos.
 
-- #### Reseñas y calificaciones:
-Permitir al usuario calificar y reseñar las películas y libros recomendados
 
 	- Ofrecer enlaces o detalles sobre la disponibilidad de películas y libros en plataformas de streaming o librerías en línea.
-
-	- Sugerir películas y libros populares o tendencias actuales que podrían ser de su interés.
 
 
 ### Referencias
