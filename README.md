@@ -2,7 +2,7 @@
 
 ## Planteamiento del problema
 
-Buscamos desarrollar una herramienta de chatbot que permita a los usuarios encontrar, de forma ágil y rápida, películas basadas en libros o libros basados en películas. De igual manera, encontrar peliculas de su preferencia. El chatbot proporcionará el título y la plataforma donde el usuario puede acceder al contenido.
+- Buscamos desarrollar una herramienta de chatbot que permita a los usuarios encontrar, de forma ágil y rápida, películas basadas en libros o libros basados en películas. De igual manera, encontrar peliculas de su preferencia. El chatbot proporcionará el título y la plataforma donde el usuario puede acceder al contenido.
 
 ## Justificación
 Hoy en día, hay muchas opciones para ver películas y leer libros, pero encontrar esas conexiones especiales, como una película basada en un libro o un libro que inspiró una película, no siempre es sencillo. Puede resultar frustrante buscar en diferentes plataformas sin saber dónde encontrar exactamente lo que queremos.
@@ -11,7 +11,7 @@ Por eso surge Recomombot, una herramienta diseñada para facilitar la vida de lo
 
 La idea es hacer la búsqueda más ágil y agradable, ayudando a la gente a descubrir nuevas historias que disfrutarán, ya sea en la pantalla o en las páginas de un libro. Recomombot no solo mejora la experiencia del usuario, sino que también conecta dos mundos que van de la mano: la lectura y el cine.
 
-
+---
 ### Objetivos principales
 
 - #### Identificación de preferencias del usuario:
@@ -34,7 +34,7 @@ Permitir al usuario filtrar recomendaciones por criterios específicos como año
 
 	- Ofrecer enlaces o detalles sobre la disponibilidad de películas y libros en plataformas de streaming o librerías en línea.
 
-
+---
 ### Referencias
 
 - Thanks to [ChatGPT by OpenAI](https://www.openai.com/chatgpt) for assistance with writing and content optimization.
