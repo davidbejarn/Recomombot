@@ -3,7 +3,7 @@
 ## Tabla de Contenidos
 
 - [Interfaces](#interfaces)
-- [Planteamiento del problema](#planteamiento-del-problema)
+- [Introducción](#introducción)
 - [Justificación](#justificación)
 - [Objetivos principales](#objetivos-principales)
   - [Identificación de preferencias del usuario](#identificación-de-preferencias-del-usuario)
@@ -20,7 +20,7 @@
   <img src="https://github.com/user-attachments/assets/afc63eba-a2d8-4592-a83b-187c6d7aad59" alt="Vídeo sin título ‐ Hecho con Clipchamp (2)">
 </div>
 
-## Planteamiento del problema
+## Introducción
 
 - Buscamos desarrollar una herramienta de chatbot que permita a los usuarios encontrar, de forma ágil y rápida, películas basadas en libros o libros basados en películas. De igual manera, encontrar peliculas de su preferencia. El chatbot proporcionará el título y la plataforma donde el usuario puede acceder al contenido.
 
